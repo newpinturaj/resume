@@ -1,11 +1,11 @@
 body{ 
-    background-color: #C1DEAE;
+    background-color: #D3DEDC;
 }
 hr{
     border-style: none;
     border-top-style: dotted;
     border-width: 7px;
-    border-color: #F2F5C8;
+    border-color: #FFEFEF;
     width: 6%;
 
 }
@@ -14,11 +14,11 @@ img{
     height: 120px;
 }
 h1 {
-    color: #219F94;
+    color: #7C99AC;
 }
 h2 {
-    color: #219F94;
+    color: #7C99AC;
 }
 h3 {
-    color: #219F94;
+    color: #7C99AC;
 }
